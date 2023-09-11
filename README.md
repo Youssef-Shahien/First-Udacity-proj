@@ -1,2 +1,2 @@
-# First-Udemy_proj
-First Udemy Project With JavaScript
+# First-Udacity-proj
+First Udacity Project With JavaScript
